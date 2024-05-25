@@ -42,3 +42,4 @@ sudo ln -s /usr/local/android-studio/bin/studio.sh /usr/bin/android-studio
 sudo chmod +x /usr/bin/android-studio
 git config --global user.name "DarkSystemGit"
 git config --global user.email "85317259+DarkSystemGit@users.noreply.github.com"
+curl -fsSL https://tailscale.com/install.sh | sh
